@@ -1,98 +1,98 @@
-project_name,skills_used,difficulty,impact_score
-Sales Analytics Dashboard,"python,sql,power bi",Beginner,8
-Customer Churn Prediction,"python,machine learning,statistics",Intermediate,9
-Retail Demand Forecasting,"python,statistics,machine learning",Intermediate,9
-Financial Analytics Dashboard,"python,sql,tableau",Intermediate,8
-Movie Recommendation System,"python,machine learning",Intermediate,8
-Fraud Detection System,"python,machine learning,statistics",Advanced,10
-Stock Price Predictor,"python,pandas,machine learning",Intermediate,8
-Resume Screening System,"python,nlp,machine learning",Advanced,9
-Inventory Management Dashboard,"python,sql,excel",Beginner,7
-Customer Segmentation Analysis,"python,machine learning,pandas",Intermediate,8
-Credit Risk Analysis,"python,statistics,machine learning",Intermediate,9
-Loan Default Prediction,"python,machine learning,sql",Intermediate,9
-Employee Attrition Prediction,"python,machine learning,pandas",Intermediate,8
-Sentiment Analysis on Product Reviews,"python,nlp,machine learning",Intermediate,9
-Social Media Trend Analysis,"python,pandas,nlp",Intermediate,8
-Sales Forecasting System,"python,statistics,pandas",Intermediate,8
-Healthcare Data Analysis Dashboard,"python,sql,power bi",Intermediate,8
-Hospital Readmission Prediction,"python,machine learning,statistics",Advanced,9
-Disease Prediction System,"python,machine learning",Advanced,9
-Medical Image Classification,"python,deep learning,pytorch",Advanced,10
-Customer Lifetime Value Prediction,"python,machine learning,statistics",Advanced,9
-Retail Analytics Dashboard,"python,sql,tableau",Intermediate,8
-Marketing Campaign Analysis,"python,sql,excel",Beginner,7
-E-commerce Sales Dashboard,"python,power bi,sql",Beginner,8
-Market Basket Analysis,"python,machine learning,pandas",Advanced,9
-Price Optimization Engine,"python,machine learning,statistics",Advanced,10
-Business Intelligence Dashboard,"sql,power bi,excel",Beginner,8
-Data Cleaning Automation Tool,"python,pandas",Beginner,7
-HR Analytics Dashboard,"python,sql,power bi",Intermediate,8
-Supply Chain Analytics System,"python,sql,pandas",Intermediate,8
-Weather Forecast Prediction,"python,machine learning",Intermediate,8
-Traffic Volume Prediction,"python,machine learning,statistics",Intermediate,8
-Air Quality Prediction System,"python,machine learning,pandas",Intermediate,8
-Energy Consumption Forecasting,"python,machine learning,statistics",Advanced,9
-Cryptocurrency Price Prediction,"python,machine learning,pandas",Advanced,9
-Fake News Detection System,"python,nlp,machine learning",Advanced,9
-Spam Email Detection,"python,nlp,machine learning",Intermediate,8
-News Classification System,"python,nlp",Intermediate,8
-Document Classification Engine,"python,nlp,machine learning",Intermediate,8
-Chatbot for Customer Support,"python,nlp",Intermediate,8
-Question Answering System,"python,nlp,deep learning",Advanced,10
-Text Summarization Tool,"python,nlp",Advanced,9
-Language Translation System,"python,nlp,deep learning",Advanced,10
-Face Recognition Attendance System,"python,opencv,machine learning",Advanced,9
-Vehicle Detection System,"python,opencv,deep learning",Advanced,10
-Object Detection Application,"python,opencv,deep learning",Advanced,10
-License Plate Recognition System,"python,opencv,machine learning",Advanced,9
-Emotion Detection System,"python,deep learning,pytorch",Advanced,9
-Handwritten Digit Recognition,"python,deep learning",Intermediate,8
-Image Caption Generator,"python,deep learning,nlp",Advanced,10
-Image Classification System,"python,deep learning,pytorch",Advanced,9
-AI Interview Preparation Assistant,"python,nlp,machine learning",Advanced,9
-Career Recommendation System,"python,machine learning,nlp",Advanced,9
-Student Performance Prediction,"python,machine learning,statistics",Intermediate,8
-Course Recommendation Engine,"python,machine learning",Intermediate,8
-Online Exam Analytics Dashboard,"python,sql,power bi",Intermediate,8
-University Admission Predictor,"python,machine learning",Intermediate,8
-Library Management System,"java,sql",Beginner,6
-Student Management System,"java,sql",Beginner,6
-Bank Management System,"java,sql",Intermediate,7
-Employee Management System,"java,mysql",Intermediate,7
-Hospital Management System,"java,mysql",Intermediate,8
-Inventory Tracking Application,"java,sql",Intermediate,7
-Expense Tracker Application,"java,mysql",Beginner,6
-Online Voting System,"java,sql",Intermediate,7
-Bug Tracking System,"java,sql,git",Intermediate,7
-Task Management Application,"java,mysql",Intermediate,7
-Portfolio Website,"html,css,javascript",Beginner,6
-Personal Blog Website,"html,css,javascript",Beginner,6
-Weather Web Application,"html,css,javascript",Beginner,7
-Movie Search Application,"html,css,javascript,react",Intermediate,7
-Recipe Finder Application,"html,css,javascript,react",Intermediate,7
-Chat Application,"react,nodejs,mongodb",Intermediate,8
-E-commerce Website,"react,nodejs,mongodb",Advanced,9
-Job Portal Application,"react,nodejs,mongodb",Advanced,9
-Food Delivery Application,"react,nodejs,mongodb",Advanced,9
-Hotel Booking System,"react,nodejs,mongodb",Advanced,9
-Social Media Platform,"react,nodejs,mongodb",Advanced,10
-Real-Time Collaboration Tool,"react,nodejs,mongodb",Advanced,10
-Video Streaming Platform,"react,nodejs,mongodb",Advanced,10
-URL Shortener Service,"nodejs,mongodb",Intermediate,7
-Authentication System,"nodejs,mongodb",Intermediate,7
-REST API Development Project,"nodejs,mongodb",Intermediate,7
-Microservices Demo Project,"docker,nodejs",Advanced,9
-Dockerized Web Application,"docker,nodejs",Intermediate,8
-CI/CD Pipeline Setup,"docker,git,github",Advanced,9
-AWS Cloud Deployment Project,"aws,docker",Advanced,9
-Server Monitoring Dashboard,"aws,python",Advanced,9
-Cloud Cost Optimization Tool,"aws,python",Advanced,9
-Log Analysis System,"python,aws",Advanced,9
-DevOps Automation Tool,"docker,aws,git",Advanced,10
-GitHub Repository Analytics,"python,github",Intermediate,8
-Open Source Contribution Tracker,"python,github",Intermediate,8
-Streamlit Data Dashboard,"python,streamlit,pandas",Beginner,7
-Streamlit ML Predictor,"python,streamlit,machine learning",Intermediate,8
-Streamlit Resume Analyzer,"python,streamlit,nlp",Intermediate,8
-AI-Powered Project Recommendation Engine,"python,nlp,machine learning",Advanced,10
+project_name,skills_used,difficulty,impact_score,description
+Sales Analytics Dashboard,"python,sql,power bi",Beginner,8,Analyze sales data and build dashboards to visualize revenue trends and business performance.
+Customer Churn Prediction,"python,machine learning,statistics",Intermediate,9,Predict which customers are likely to stop using a product or service.
+Retail Demand Forecasting,"python,statistics,machine learning",Intermediate,9,Forecast future product demand using historical sales data.
+Financial Analytics Dashboard,"python,sql,tableau",Intermediate,8,Create dashboards to monitor financial metrics and profitability.
+Movie Recommendation System,"python,machine learning",Intermediate,8,Recommend movies to users based on preferences and ratings.
+Fraud Detection System,"python,machine learning,statistics",Advanced,10,Detect fraudulent transactions using machine learning techniques.
+Stock Price Predictor,"python,pandas,machine learning",Intermediate,8,Estimate future stock prices from historical market data.
+Resume Screening System,"python,nlp,machine learning",Advanced,9,Automatically analyze and rank resumes using NLP.
+Inventory Management Dashboard,"python,sql,excel",Beginner,7,Track inventory levels and stock movement through dashboards.
+Customer Segmentation Analysis,"python,machine learning,pandas",Intermediate,8,Group customers into segments based on behavior and demographics.
+Credit Risk Analysis,"python,statistics,machine learning",Intermediate,9,"Build a credit risk analysis using python,statistics,machine learning to solve a real-world problem and strengthen practical skills."
+Loan Default Prediction,"python,machine learning,sql",Intermediate,9,"Build a loan default prediction using python,machine learning,sql to solve a real-world problem and strengthen practical skills."
+Employee Attrition Prediction,"python,machine learning,pandas",Intermediate,8,"Build a employee attrition prediction using python,machine learning,pandas to solve a real-world problem and strengthen practical skills."
+Sentiment Analysis on Product Reviews,"python,nlp,machine learning",Intermediate,9,"Build a sentiment analysis on product reviews using python,nlp,machine learning to solve a real-world problem and strengthen practical skills."
+Social Media Trend Analysis,"python,pandas,nlp",Intermediate,8,"Build a social media trend analysis using python,pandas,nlp to solve a real-world problem and strengthen practical skills."
+Sales Forecasting System,"python,statistics,pandas",Intermediate,8,"Build a sales forecasting system using python,statistics,pandas to solve a real-world problem and strengthen practical skills."
+Healthcare Data Analysis Dashboard,"python,sql,power bi",Intermediate,8,"Build a healthcare data analysis dashboard using python,sql,power bi to solve a real-world problem and strengthen practical skills."
+Hospital Readmission Prediction,"python,machine learning,statistics",Advanced,9,"Build a hospital readmission prediction using python,machine learning,statistics to solve a real-world problem and strengthen practical skills."
+Disease Prediction System,"python,machine learning",Advanced,9,"Build a disease prediction system using python,machine learning to solve a real-world problem and strengthen practical skills."
+Medical Image Classification,"python,deep learning,pytorch",Advanced,10,"Build a medical image classification using python,deep learning,pytorch to solve a real-world problem and strengthen practical skills."
+Customer Lifetime Value Prediction,"python,machine learning,statistics",Advanced,9,"Build a customer lifetime value prediction using python,machine learning,statistics to solve a real-world problem and strengthen practical skills."
+Retail Analytics Dashboard,"python,sql,tableau",Intermediate,8,"Build a retail analytics dashboard using python,sql,tableau to solve a real-world problem and strengthen practical skills."
+Marketing Campaign Analysis,"python,sql,excel",Beginner,7,"Build a marketing campaign analysis using python,sql,excel to solve a real-world problem and strengthen practical skills."
+E-commerce Sales Dashboard,"python,power bi,sql",Beginner,8,"Build a e-commerce sales dashboard using python,power bi,sql to solve a real-world problem and strengthen practical skills."
+Market Basket Analysis,"python,machine learning,pandas",Advanced,9,"Build a market basket analysis using python,machine learning,pandas to solve a real-world problem and strengthen practical skills."
+Price Optimization Engine,"python,machine learning,statistics",Advanced,10,"Build a price optimization engine using python,machine learning,statistics to solve a real-world problem and strengthen practical skills."
+Business Intelligence Dashboard,"sql,power bi,excel",Beginner,8,"Build a business intelligence dashboard using sql,power bi,excel to solve a real-world problem and strengthen practical skills."
+Data Cleaning Automation Tool,"python,pandas",Beginner,7,"Build a data cleaning automation tool using python,pandas to solve a real-world problem and strengthen practical skills."
+HR Analytics Dashboard,"python,sql,power bi",Intermediate,8,"Build a hr analytics dashboard using python,sql,power bi to solve a real-world problem and strengthen practical skills."
+Supply Chain Analytics System,"python,sql,pandas",Intermediate,8,"Build a supply chain analytics system using python,sql,pandas to solve a real-world problem and strengthen practical skills."
+Weather Forecast Prediction,"python,machine learning",Intermediate,8,"Build a weather forecast prediction using python,machine learning to solve a real-world problem and strengthen practical skills."
+Traffic Volume Prediction,"python,machine learning,statistics",Intermediate,8,"Build a traffic volume prediction using python,machine learning,statistics to solve a real-world problem and strengthen practical skills."
+Air Quality Prediction System,"python,machine learning,pandas",Intermediate,8,"Build a air quality prediction system using python,machine learning,pandas to solve a real-world problem and strengthen practical skills."
+Energy Consumption Forecasting,"python,machine learning,statistics",Advanced,9,"Build a energy consumption forecasting using python,machine learning,statistics to solve a real-world problem and strengthen practical skills."
+Cryptocurrency Price Prediction,"python,machine learning,pandas",Advanced,9,"Build a cryptocurrency price prediction using python,machine learning,pandas to solve a real-world problem and strengthen practical skills."
+Fake News Detection System,"python,nlp,machine learning",Advanced,9,"Build a fake news detection system using python,nlp,machine learning to solve a real-world problem and strengthen practical skills."
+Spam Email Detection,"python,nlp,machine learning",Intermediate,8,"Build a spam email detection using python,nlp,machine learning to solve a real-world problem and strengthen practical skills."
+News Classification System,"python,nlp",Intermediate,8,"Build a news classification system using python,nlp to solve a real-world problem and strengthen practical skills."
+Document Classification Engine,"python,nlp,machine learning",Intermediate,8,"Build a document classification engine using python,nlp,machine learning to solve a real-world problem and strengthen practical skills."
+Chatbot for Customer Support,"python,nlp",Intermediate,8,"Build a chatbot for customer support using python,nlp to solve a real-world problem and strengthen practical skills."
+Question Answering System,"python,nlp,deep learning",Advanced,10,"Build a question answering system using python,nlp,deep learning to solve a real-world problem and strengthen practical skills."
+Text Summarization Tool,"python,nlp",Advanced,9,"Build a text summarization tool using python,nlp to solve a real-world problem and strengthen practical skills."
+Language Translation System,"python,nlp,deep learning",Advanced,10,"Build a language translation system using python,nlp,deep learning to solve a real-world problem and strengthen practical skills."
+Face Recognition Attendance System,"python,opencv,machine learning",Advanced,9,"Build a face recognition attendance system using python,opencv,machine learning to solve a real-world problem and strengthen practical skills."
+Vehicle Detection System,"python,opencv,deep learning",Advanced,10,"Build a vehicle detection system using python,opencv,deep learning to solve a real-world problem and strengthen practical skills."
+Object Detection Application,"python,opencv,deep learning",Advanced,10,"Build a object detection application using python,opencv,deep learning to solve a real-world problem and strengthen practical skills."
+License Plate Recognition System,"python,opencv,machine learning",Advanced,9,"Build a license plate recognition system using python,opencv,machine learning to solve a real-world problem and strengthen practical skills."
+Emotion Detection System,"python,deep learning,pytorch",Advanced,9,"Build a emotion detection system using python,deep learning,pytorch to solve a real-world problem and strengthen practical skills."
+Handwritten Digit Recognition,"python,deep learning",Intermediate,8,"Build a handwritten digit recognition using python,deep learning to solve a real-world problem and strengthen practical skills."
+Image Caption Generator,"python,deep learning,nlp",Advanced,10,"Build a image caption generator using python,deep learning,nlp to solve a real-world problem and strengthen practical skills."
+Image Classification System,"python,deep learning,pytorch",Advanced,9,"Build a image classification system using python,deep learning,pytorch to solve a real-world problem and strengthen practical skills."
+AI Interview Preparation Assistant,"python,nlp,machine learning",Advanced,9,"Build a ai interview preparation assistant using python,nlp,machine learning to solve a real-world problem and strengthen practical skills."
+Career Recommendation System,"python,machine learning,nlp",Advanced,9,"Build a career recommendation system using python,machine learning,nlp to solve a real-world problem and strengthen practical skills."
+Student Performance Prediction,"python,machine learning,statistics",Intermediate,8,"Build a student performance prediction using python,machine learning,statistics to solve a real-world problem and strengthen practical skills."
+Course Recommendation Engine,"python,machine learning",Intermediate,8,"Build a course recommendation engine using python,machine learning to solve a real-world problem and strengthen practical skills."
+Online Exam Analytics Dashboard,"python,sql,power bi",Intermediate,8,"Build a online exam analytics dashboard using python,sql,power bi to solve a real-world problem and strengthen practical skills."
+University Admission Predictor,"python,machine learning",Intermediate,8,"Build a university admission predictor using python,machine learning to solve a real-world problem and strengthen practical skills."
+Library Management System,"java,sql",Beginner,6,"Build a library management system using java,sql to solve a real-world problem and strengthen practical skills."
+Student Management System,"java,sql",Beginner,6,"Build a student management system using java,sql to solve a real-world problem and strengthen practical skills."
+Bank Management System,"java,sql",Intermediate,7,"Build a bank management system using java,sql to solve a real-world problem and strengthen practical skills."
+Employee Management System,"java,mysql",Intermediate,7,"Build a employee management system using java,mysql to solve a real-world problem and strengthen practical skills."
+Hospital Management System,"java,mysql",Intermediate,8,"Build a hospital management system using java,mysql to solve a real-world problem and strengthen practical skills."
+Inventory Tracking Application,"java,sql",Intermediate,7,"Build a inventory tracking application using java,sql to solve a real-world problem and strengthen practical skills."
+Expense Tracker Application,"java,mysql",Beginner,6,"Build a expense tracker application using java,mysql to solve a real-world problem and strengthen practical skills."
+Online Voting System,"java,sql",Intermediate,7,"Build a online voting system using java,sql to solve a real-world problem and strengthen practical skills."
+Bug Tracking System,"java,sql,git",Intermediate,7,"Build a bug tracking system using java,sql,git to solve a real-world problem and strengthen practical skills."
+Task Management Application,"java,mysql",Intermediate,7,"Build a task management application using java,mysql to solve a real-world problem and strengthen practical skills."
+Portfolio Website,"html,css,javascript",Beginner,6,"Build a portfolio website using html,css,javascript to solve a real-world problem and strengthen practical skills."
+Personal Blog Website,"html,css,javascript",Beginner,6,"Build a personal blog website using html,css,javascript to solve a real-world problem and strengthen practical skills."
+Weather Web Application,"html,css,javascript",Beginner,7,"Build a weather web application using html,css,javascript to solve a real-world problem and strengthen practical skills."
+Movie Search Application,"html,css,javascript,react",Intermediate,7,"Build a movie search application using html,css,javascript,react to solve a real-world problem and strengthen practical skills."
+Recipe Finder Application,"html,css,javascript,react",Intermediate,7,"Build a recipe finder application using html,css,javascript,react to solve a real-world problem and strengthen practical skills."
+Chat Application,"react,nodejs,mongodb",Intermediate,8,"Build a chat application using react,nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+E-commerce Website,"react,nodejs,mongodb",Advanced,9,"Build a e-commerce website using react,nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+Job Portal Application,"react,nodejs,mongodb",Advanced,9,"Build a job portal application using react,nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+Food Delivery Application,"react,nodejs,mongodb",Advanced,9,"Build a food delivery application using react,nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+Hotel Booking System,"react,nodejs,mongodb",Advanced,9,"Build a hotel booking system using react,nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+Social Media Platform,"react,nodejs,mongodb",Advanced,10,"Build a social media platform using react,nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+Real-Time Collaboration Tool,"react,nodejs,mongodb",Advanced,10,"Build a real-time collaboration tool using react,nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+Video Streaming Platform,"react,nodejs,mongodb",Advanced,10,"Build a video streaming platform using react,nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+URL Shortener Service,"nodejs,mongodb",Intermediate,7,"Build a url shortener service using nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+Authentication System,"nodejs,mongodb",Intermediate,7,"Build a authentication system using nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+REST API Development Project,"nodejs,mongodb",Intermediate,7,"Build a rest api development project using nodejs,mongodb to solve a real-world problem and strengthen practical skills."
+Microservices Demo Project,"docker,nodejs",Advanced,9,"Build a microservices demo project using docker,nodejs to solve a real-world problem and strengthen practical skills."
+Dockerized Web Application,"docker,nodejs",Intermediate,8,"Build a dockerized web application using docker,nodejs to solve a real-world problem and strengthen practical skills."
+CI/CD Pipeline Setup,"docker,git,github",Advanced,9,"Build a ci/cd pipeline setup using docker,git,github to solve a real-world problem and strengthen practical skills."
+AWS Cloud Deployment Project,"aws,docker",Advanced,9,"Build a aws cloud deployment project using aws,docker to solve a real-world problem and strengthen practical skills."
+Server Monitoring Dashboard,"aws,python",Advanced,9,"Build a server monitoring dashboard using aws,python to solve a real-world problem and strengthen practical skills."
+Cloud Cost Optimization Tool,"aws,python",Advanced,9,"Build a cloud cost optimization tool using aws,python to solve a real-world problem and strengthen practical skills."
+Log Analysis System,"python,aws",Advanced,9,"Build a log analysis system using python,aws to solve a real-world problem and strengthen practical skills."
+DevOps Automation Tool,"docker,aws,git",Advanced,10,"Build a devops automation tool using docker,aws,git to solve a real-world problem and strengthen practical skills."
+GitHub Repository Analytics,"python,github",Intermediate,8,"Build a github repository analytics using python,github to solve a real-world problem and strengthen practical skills."
+Open Source Contribution Tracker,"python,github",Intermediate,8,"Build a open source contribution tracker using python,github to solve a real-world problem and strengthen practical skills."
+Streamlit Data Dashboard,"python,streamlit,pandas",Beginner,7,"Build a streamlit data dashboard using python,streamlit,pandas to solve a real-world problem and strengthen practical skills."
+Streamlit ML Predictor,"python,streamlit,machine learning",Intermediate,8,"Build a streamlit ml predictor using python,streamlit,machine learning to solve a real-world problem and strengthen practical skills."
+Streamlit Resume Analyzer,"python,streamlit,nlp",Intermediate,8,"Build a streamlit resume analyzer using python,streamlit,nlp to solve a real-world problem and strengthen practical skills."
+AI-Powered Project Recommendation Engine,"python,nlp,machine learning",Advanced,10,"Build a ai-powered project recommendation engine using python,nlp,machine learning to solve a real-world problem and strengthen practical skills."

@@ -1,11 +1,24 @@
-# modules/recommender.py
-
 import pandas as pd
 
 
-def recommend_projects(user_skills, missing_skills, top_n=5):
+def recommend_projects(
+    user_skills,
+    missing_skills,
+    selected_level,
+    top_n=5
+):
 
-    projects_df = pd.read_csv("data/projects.csv")
+    projects_df = pd.read_csv(
+        "data/projects.csv"
+    )
+
+    # Filter by difficulty level
+
+    projects_df = projects_df[
+        projects_df["difficulty"].str.lower()
+        ==
+        selected_level.lower()
+    ]
 
     recommendations = []
 
@@ -17,11 +30,15 @@ def recommend_projects(user_skills, missing_skills, top_n=5):
         ]
 
         matching_skills = len(
-            set(user_skills).intersection(project_skills)
+            set(user_skills).intersection(
+                project_skills
+            )
         )
 
         gap_skills_covered = len(
-            set(missing_skills).intersection(project_skills)
+            set(missing_skills).intersection(
+                project_skills
+            )
         )
 
         score = (
@@ -33,18 +50,36 @@ def recommend_projects(user_skills, missing_skills, top_n=5):
         )
 
         recommendations.append({
-            "project_name": row["project_name"],
-            "skills_used": row["skills_used"],
-            "difficulty": row["difficulty"],
-            "impact_score": row["impact_score"],
-            "matching_skills": matching_skills,
-            "gap_skills_covered": gap_skills_covered,
-            "recommendation_score": score
+
+            "project_name":
+            row["project_name"],
+
+            "skills_used":
+            row["skills_used"],
+
+            "difficulty":
+            row["difficulty"],
+
+            "impact_score":
+            row["impact_score"],
+
+            "description":
+            row["description"],
+
+            "matching_skills":
+            matching_skills,
+
+            "gap_skills_covered":
+            gap_skills_covered,
+
+            "recommendation_score":
+            score
         })
 
     recommendations = sorted(
         recommendations,
-        key=lambda x: x["recommendation_score"],
+        key=lambda x:
+        x["recommendation_score"],
         reverse=True
     )
 

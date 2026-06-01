@@ -13,12 +13,12 @@ from modules.roadmap_generator import generate_roadmap
 
 st.set_page_config(
     page_title="CareerIQ",
-    page_icon="🎯",
+    page_icon="",
     layout="wide"
 )
 
-st.title("CareerIQ")
-st.subheader("Resume-to-Project Recommendation Engine")
+st.title("Career Enhancement Platform")
+st.subheader("Project Recommendation Engine")
 
 uploaded_file = st.file_uploader(
     "Upload Resume PDF",
@@ -35,7 +35,14 @@ target_role = st.selectbox(
         "Full Stack Developer"
     ]
 )
-
+project_level = st.selectbox(
+    "Select Project Difficulty",
+    [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+    ]
+)
 if uploaded_file is not None:
 
     if st.button("Analyze Resume"):
@@ -61,7 +68,8 @@ if uploaded_file is not None:
             # Recommendations
             recommendations = recommend_projects(
                 user_skills,
-                gap_result["missing_skills"]
+                gap_result["missing_skills"],
+                project_level
             )
 
             # Scores
@@ -124,9 +132,7 @@ if uploaded_file is not None:
 
         for project in recommendations:
 
-            with st.expander(
-                project["project_name"]
-            ):
+            with st.expander(project["project_name"]):
 
                 st.write(
                     f"Difficulty: {project['difficulty']}"
@@ -141,9 +147,12 @@ if uploaded_file is not None:
                 )
 
                 st.write(
-                    f"Recommendation Score: {project['recommendation_score']}"
+                    f"Description: {project['description']}"
                 )
 
+                st.write(
+                    f"Recommendation Score: {project['recommendation_score']}"
+                )
         # Roadmap
         st.header("Learning Roadmap")
 
