@@ -12,7 +12,7 @@ from modules.roadmap_generator import generate_roadmap
 
 
 st.set_page_config(
-    page_title="CareerIQ",
+    page_title="Project Recommender",
     page_icon="",
     layout="wide"
 )
@@ -32,7 +32,10 @@ target_role = st.selectbox(
         "Data Scientist",
         "ML Engineer",
         "Software Engineer",
-        "Full Stack Developer"
+        "Full Stack Developer",
+        "Cloud Engineer",
+        "DevOps Engineer",
+        "Cybersecurity Analyst"
     ]
 )
 project_level = st.selectbox(
