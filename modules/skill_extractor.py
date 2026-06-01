@@ -1,37 +1,25 @@
 # modules/skill_extractor.py
 
-SKILLS = [
-    "python",
-    "sql",
-    "excel",
-    "power bi",
-    "tableau",
-    "pandas",
-    "numpy",
-    "machine learning",
-    "deep learning",
-    "statistics",
-    "tensorflow",
-    "pytorch",
-    "scikit-learn",
-    "java",
-    "c++",
-    "c",
-    "javascript",
-    "html",
-    "css",
-    "react",
-    "nodejs",
-    "docker",
-    "aws",
-    "git",
-    "github",
-    "mongodb",
-    "mysql",
-    "sqlite",
-    "flask",
-    "streamlit"
-]
+import pandas as pd
+
+
+def load_skills():
+    """
+    Load skills dynamically from skills.csv
+    """
+
+    skills_df = pd.read_csv(
+        "data/skills.csv"
+    )
+
+    skills = (
+        skills_df["skill"]
+        .dropna()
+        .str.lower()
+        .tolist()
+    )
+
+    return skills
 
 
 def extract_skills(text):
@@ -41,11 +29,15 @@ def extract_skills(text):
 
     text = text.lower()
 
+    skills = load_skills()
+
     found_skills = []
 
-    for skill in SKILLS:
+    for skill in skills:
 
         if skill in text:
             found_skills.append(skill)
 
-    return sorted(list(set(found_skills)))
+    return sorted(
+        list(set(found_skills))
+    )

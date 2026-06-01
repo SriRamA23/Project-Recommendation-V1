@@ -1,29 +1,79 @@
 skill
 python
+java
+c
+c++
+javascript
+typescript
+html
+css
+react
+nodejs
+express
 sql
+mysql
+postgresql
+sqlite
+mongodb
+redis
 excel
 power bi
 tableau
 pandas
 numpy
+statistics
+data visualization
+business analytics
 machine learning
 deep learning
-statistics
+scikit-learn
 tensorflow
 pytorch
-java
-c++
-javascript
-html
-css
-react
-nodejs
+nlp
+transformers
+opencv
+computer vision
+image processing
 docker
+kubernetes
 aws
+azure
+gcp
+linux
 git
 github
-mongodb
-mysql
-sqlite
+ci/cd
+terraform
+rest api
 flask
+django
+fastapi
 streamlit
+oop
+dsa
+problem solving
+software design
+api development
+networking
+cloud security
+monitoring
+ethical hacking
+penetration testing
+cryptography
+siem
+network security
+data structures
+algorithms
+data mining
+feature engineering
+data cleaning
+data preprocessing
+predictive analytics
+time series analysis
+recommendation systems
+business intelligence
+dashboard development
+data warehousing
+etl
+apache spark
+hadoop
