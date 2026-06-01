@@ -1,0 +1,98 @@
+project_name,skills_used,difficulty,impact_score
+Sales Analytics Dashboard,"python,sql,power bi",Beginner,8
+Customer Churn Prediction,"python,machine learning,statistics",Intermediate,9
+Retail Demand Forecasting,"python,statistics,machine learning",Intermediate,9
+Financial Analytics Dashboard,"python,sql,tableau",Intermediate,8
+Movie Recommendation System,"python,machine learning",Intermediate,8
+Fraud Detection System,"python,machine learning,statistics",Advanced,10
+Stock Price Predictor,"python,pandas,machine learning",Intermediate,8
+Resume Screening System,"python,nlp,machine learning",Advanced,9
+Inventory Management Dashboard,"python,sql,excel",Beginner,7
+Customer Segmentation Analysis,"python,machine learning,pandas",Intermediate,8
+Credit Risk Analysis,"python,statistics,machine learning",Intermediate,9
+Loan Default Prediction,"python,machine learning,sql",Intermediate,9
+Employee Attrition Prediction,"python,machine learning,pandas",Intermediate,8
+Sentiment Analysis on Product Reviews,"python,nlp,machine learning",Intermediate,9
+Social Media Trend Analysis,"python,pandas,nlp",Intermediate,8
+Sales Forecasting System,"python,statistics,pandas",Intermediate,8
+Healthcare Data Analysis Dashboard,"python,sql,power bi",Intermediate,8
+Hospital Readmission Prediction,"python,machine learning,statistics",Advanced,9
+Disease Prediction System,"python,machine learning",Advanced,9
+Medical Image Classification,"python,deep learning,pytorch",Advanced,10
+Customer Lifetime Value Prediction,"python,machine learning,statistics",Advanced,9
+Retail Analytics Dashboard,"python,sql,tableau",Intermediate,8
+Marketing Campaign Analysis,"python,sql,excel",Beginner,7
+E-commerce Sales Dashboard,"python,power bi,sql",Beginner,8
+Market Basket Analysis,"python,machine learning,pandas",Advanced,9
+Price Optimization Engine,"python,machine learning,statistics",Advanced,10
+Business Intelligence Dashboard,"sql,power bi,excel",Beginner,8
+Data Cleaning Automation Tool,"python,pandas",Beginner,7
+HR Analytics Dashboard,"python,sql,power bi",Intermediate,8
+Supply Chain Analytics System,"python,sql,pandas",Intermediate,8
+Weather Forecast Prediction,"python,machine learning",Intermediate,8
+Traffic Volume Prediction,"python,machine learning,statistics",Intermediate,8
+Air Quality Prediction System,"python,machine learning,pandas",Intermediate,8
+Energy Consumption Forecasting,"python,machine learning,statistics",Advanced,9
+Cryptocurrency Price Prediction,"python,machine learning,pandas",Advanced,9
+Fake News Detection System,"python,nlp,machine learning",Advanced,9
+Spam Email Detection,"python,nlp,machine learning",Intermediate,8
+News Classification System,"python,nlp",Intermediate,8
+Document Classification Engine,"python,nlp,machine learning",Intermediate,8
+Chatbot for Customer Support,"python,nlp",Intermediate,8
+Question Answering System,"python,nlp,deep learning",Advanced,10
+Text Summarization Tool,"python,nlp",Advanced,9
+Language Translation System,"python,nlp,deep learning",Advanced,10
+Face Recognition Attendance System,"python,opencv,machine learning",Advanced,9
+Vehicle Detection System,"python,opencv,deep learning",Advanced,10
+Object Detection Application,"python,opencv,deep learning",Advanced,10
+License Plate Recognition System,"python,opencv,machine learning",Advanced,9
+Emotion Detection System,"python,deep learning,pytorch",Advanced,9
+Handwritten Digit Recognition,"python,deep learning",Intermediate,8
+Image Caption Generator,"python,deep learning,nlp",Advanced,10
+Image Classification System,"python,deep learning,pytorch",Advanced,9
+AI Interview Preparation Assistant,"python,nlp,machine learning",Advanced,9
+Career Recommendation System,"python,machine learning,nlp",Advanced,9
+Student Performance Prediction,"python,machine learning,statistics",Intermediate,8
+Course Recommendation Engine,"python,machine learning",Intermediate,8
+Online Exam Analytics Dashboard,"python,sql,power bi",Intermediate,8
+University Admission Predictor,"python,machine learning",Intermediate,8
+Library Management System,"java,sql",Beginner,6
+Student Management System,"java,sql",Beginner,6
+Bank Management System,"java,sql",Intermediate,7
+Employee Management System,"java,mysql",Intermediate,7
+Hospital Management System,"java,mysql",Intermediate,8
+Inventory Tracking Application,"java,sql",Intermediate,7
+Expense Tracker Application,"java,mysql",Beginner,6
+Online Voting System,"java,sql",Intermediate,7
+Bug Tracking System,"java,sql,git",Intermediate,7
+Task Management Application,"java,mysql",Intermediate,7
+Portfolio Website,"html,css,javascript",Beginner,6
+Personal Blog Website,"html,css,javascript",Beginner,6
+Weather Web Application,"html,css,javascript",Beginner,7
+Movie Search Application,"html,css,javascript,react",Intermediate,7
+Recipe Finder Application,"html,css,javascript,react",Intermediate,7
+Chat Application,"react,nodejs,mongodb",Intermediate,8
+E-commerce Website,"react,nodejs,mongodb",Advanced,9
+Job Portal Application,"react,nodejs,mongodb",Advanced,9
+Food Delivery Application,"react,nodejs,mongodb",Advanced,9
+Hotel Booking System,"react,nodejs,mongodb",Advanced,9
+Social Media Platform,"react,nodejs,mongodb",Advanced,10
+Real-Time Collaboration Tool,"react,nodejs,mongodb",Advanced,10
+Video Streaming Platform,"react,nodejs,mongodb",Advanced,10
+URL Shortener Service,"nodejs,mongodb",Intermediate,7
+Authentication System,"nodejs,mongodb",Intermediate,7
+REST API Development Project,"nodejs,mongodb",Intermediate,7
+Microservices Demo Project,"docker,nodejs",Advanced,9
+Dockerized Web Application,"docker,nodejs",Intermediate,8
+CI/CD Pipeline Setup,"docker,git,github",Advanced,9
+AWS Cloud Deployment Project,"aws,docker",Advanced,9
+Server Monitoring Dashboard,"aws,python",Advanced,9
+Cloud Cost Optimization Tool,"aws,python",Advanced,9
+Log Analysis System,"python,aws",Advanced,9
+DevOps Automation Tool,"docker,aws,git",Advanced,10
+GitHub Repository Analytics,"python,github",Intermediate,8
+Open Source Contribution Tracker,"python,github",Intermediate,8
+Streamlit Data Dashboard,"python,streamlit,pandas",Beginner,7
+Streamlit ML Predictor,"python,streamlit,machine learning",Intermediate,8
+Streamlit Resume Analyzer,"python,streamlit,nlp",Intermediate,8
+AI-Powered Project Recommendation Engine,"python,nlp,machine learning",Advanced,10

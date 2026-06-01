@@ -1,0 +1,6 @@
+role,required_skills
+Data Analyst,"python,sql,excel,power bi,tableau,statistics"
+Data Scientist,"python,sql,machine learning,deep learning,statistics"
+ML Engineer,"python,machine learning,tensorflow,pytorch,docker,aws"
+Software Engineer,"java,python,sql,git,github"
+Full Stack Developer,"html,css,javascript,react,nodejs,mongodb"
