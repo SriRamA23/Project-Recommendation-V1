@@ -9,8 +9,6 @@ from modules.scorer import (
     projected_score
 )
 from modules.roadmap_generator import generate_roadmap
-
-
 st.set_page_config(
     page_title="Project Recommender",
     page_icon="",
