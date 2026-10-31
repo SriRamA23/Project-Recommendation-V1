@@ -155,7 +155,6 @@ if uploaded_file is not None:
                 )
         # Roadmap
         st.header("Learning Roadmap")
-
         for index, step in enumerate(
             roadmap,
             start=1
