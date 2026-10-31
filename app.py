@@ -65,7 +65,6 @@ if uploaded_file is not None:
                 user_skills,
                 target_role
             )
-
             # Recommendations
             recommendations = recommend_projects(
                 user_skills,
